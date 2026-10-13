@@ -11,6 +11,7 @@ namespace Homework_for_IPG203
         static void Main(string[] args)
         {
             Console.WriteLine("ipg 203");
+            Console.WriteLine(  " NOUR");
         }
     }
 }
