@@ -12,6 +12,7 @@ namespace Homework_for_IPG203
         {
             Console.WriteLine("ipg 203");
             Console.WriteLine(  " NOUR");
+            Console.WriteLine("sara");
         }
     }
 }
